@@ -1,83 +1,43 @@
-<h1 align="center">Hi, I'm Junaid Jameel 👋</h1>
-<p align="center">
-  <b>AI Engineer</b> · LLMs & Voice AI · MSAI Candidate<br/>
-  I build AI agents that talk, retrieve and reason.
-</p>
+# 💫 About Me:
+I'm an AI Engineer building agentic AI systems, voice agents and production RAG.<br><br>- 🔭 Currently working on real-time speech-to-speech voice agents (OpenAI Realtime, Gemini Live) and multi-tenant AI agent platforms<br>- 🌱 Currently learning MCP (Model Context Protocol) servers, multi-agent orchestration with agent SDKs, and LLM evals & observability<br>- 👯 Looking to collaborate on open-source MCP tools, agentic RAG, voice AI and applied ML research<br>- 💬 Ask me about agentic RAG, voice agents, tool-calling LLMs, FastAPI backends, deploying LLM apps<br>- 🌪 Research: multi-modal CNN-LSTM models with cross-attention for tropical cyclone intensity estimation (MS in AI)<br>- ⚡ Fun fact: my best ideas show up somewhere between the second and third cup of chai ☕
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/junaid-jameel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:junaidjameel773@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Junaidjameel773?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-jameel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidjameel773@gmail.com) 
 
-### 🧠 About me
+# 💻 Tech Stack:
+**Languages**<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🤖 I build **LLM-powered agents**: RAG systems, voice assistants and support automation.
-- 🎙️ Focused on **real-time Voice AI** and multi-tenant chatbot platforms.
-- 🌪️ Research interest: **deep learning for climate**. Multi-modal CNN–LSTM models for cyclone intensity estimation.
-- 🎓 CS graduate, pursuing an **MS in Artificial Intelligence**.
-
-### 🛠️ Tech stack
-
-**LLMs & Agents**<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-**RAG & Vector DBs**<br/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+**LLMs, Agents & RAG**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
 **Voice AI**<br/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white"/>
-<img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white) ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
-**ML / Deep Learning**<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+**ML & Data**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Backend & Apps**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+**Backend & Databases**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Infra & Tools**<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+**DevOps & Cloud**<br/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### 🚀 Featured projects
+**Tools & Testing**<br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+# 🚀 Featured Projects:
 | Project | What it does | Stack |
 |---|---|---|
-| 🌪️ [**cyclone-intensity-nio**](https://github.com/Junaidjameel773/cyclone-intensity-nio) | Multi-modal CNN–LSTM with cross-attention for cyclone intensity in the North Indian Ocean. Transfer learning cuts RMSE from 22.8 to 12.2 kt. | PyTorch, satellite imagery |
-| 🎫 [**AI-Ticket-Agent**](https://github.com/Junaidjameel773/AI-Ticket-Agent) | Support ticketing with zero-shot classification, sentiment-based priority and RAG replies. | FastAPI, Streamlit, ChromaDB, Groq |
-| 🕸️ [**AI Web Crawler**](https://github.com/Junaidjameel773/AI-Powered-Web-Crawler-and-Content-Formatter) | Async crawler that turns websites into clean Markdown with Gemini. | asyncio, Gemini |
-| 📺 [**YouTube Video Summarizer**](https://github.com/Junaidjameel773/YouTube-Video-Summarizer) | Paste a YouTube link, get structured notes from the transcript. | Streamlit, Gemini |
+| [**cyclone-intensity-nio**](https://github.com/Junaidjameel773/cyclone-intensity-nio) | Multi-modal CNN–LSTM with cross-attention for tropical cyclone intensity estimation in the North Indian Ocean. Cross-basin transfer learning cuts RMSE from 22.8 to 12.2 kt. | PyTorch, satellite imagery |
+| [**AI-Ticket-Agent**](https://github.com/Junaidjameel773/AI-Ticket-Agent) | Customer support ticketing with zero-shot classification, sentiment-driven priority and RAG replies. | FastAPI, Streamlit, ChromaDB, Groq |
+| [**AI Web Crawler**](https://github.com/Junaidjameel773/AI-Powered-Web-Crawler-and-Content-Formatter) | Async crawler that extracts internal links and converts pages into clean Markdown with Gemini. | asyncio, Gemini |
+| [**YouTube Channel Analytics Pipeline**](https://github.com/Junaidjameel773/YouTube-Channel-Analytics-Pipeline) | Data pipeline that extracts, processes and stores YouTube channel metadata via the YouTube Data API v3. | Python, YouTube Data API |
+| [**YouTube Video Summarizer**](https://github.com/Junaidjameel773/YouTube-Video-Summarizer) | Paste a YouTube link, get structured notes from the transcript. | Streamlit, Gemini |
 
-### 📊 GitHub stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Junaidjameel773&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaidjameel773&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
