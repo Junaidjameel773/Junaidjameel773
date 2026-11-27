@@ -36,7 +36,7 @@ I'm an AI Engineer building agentic AI systems, voice agents and production RAG.
 | [**YouTube Channel Analytics Pipeline**](https://github.com/Junaidjameel773/YouTube-Channel-Analytics-Pipeline) | Data pipeline that extracts, processes and stores YouTube channel metadata via the YouTube Data API v3. | Python, YouTube Data API |
 | [**YouTube Video Summarizer**](https://github.com/Junaidjameel773/YouTube-Video-Summarizer) | Paste a YouTube link, get structured notes from the transcript. | Streamlit, Gemini |
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
