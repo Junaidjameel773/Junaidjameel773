@@ -37,7 +37,7 @@ I'm an AI Engineer building agentic AI systems, voice agents and production RAG.
 | [**YouTube Video Summarizer**](https://github.com/Junaidjameel773/YouTube-Video-Summarizer) | Paste a YouTube link, get structured notes from the transcript. | Streamlit, Gemini |
 
 # 📈 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&v=2)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=junaidjameel773&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
