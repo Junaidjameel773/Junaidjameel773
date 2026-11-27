@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 🧭 About Me:
 I'm an AI Engineer building agentic AI systems, voice agents and production RAG.<br><br>- 🔭 Currently working on real-time speech-to-speech voice agents (OpenAI Realtime, Gemini Live) and multi-tenant AI agent platforms<br>- 🌱 Currently learning MCP (Model Context Protocol) servers, multi-agent orchestration with agent SDKs, and LLM evals & observability<br>- 👯 Looking to collaborate on open-source MCP tools, agentic RAG, voice AI and applied ML research<br>- 💬 Ask me about agentic RAG, voice agents, tool-calling LLMs, FastAPI backends, deploying LLM apps<br>- 🌪 Research: multi-modal CNN-LSTM models with cross-attention for tropical cyclone intensity estimation (MS in AI)<br>- ⚡ Fun fact: my best ideas show up somewhere between the second and third cup of chai ☕
 
 
-## 🌐 Socials:
+## 📡 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-jameel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidjameel773@gmail.com) 
 
-# 💻 Tech Stack:
+# 🧱 Tech Stack:
 **Languages**<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -27,7 +27,7 @@ I'm an AI Engineer building agentic AI systems, voice agents and production RAG.
 **Tools & Testing**<br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 🚀 Featured Projects:
+# 🏗️ Featured Projects:
 | Project | What it does | Stack |
 |---|---|---|
 | [**cyclone-intensity-nio**](https://github.com/Junaidjameel773/cyclone-intensity-nio) | Multi-modal CNN–LSTM with cross-attention for tropical cyclone intensity estimation in the North Indian Ocean. Cross-basin transfer learning cuts RMSE from 22.8 to 12.2 kt. | PyTorch, satellite imagery |
