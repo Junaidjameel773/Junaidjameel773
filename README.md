@@ -3,7 +3,7 @@ I'm an AI Engineer building agentic AI systems, voice agents and production RAG.
 
 
 ## 📡 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?logo=googlechrome&logoColor=white)](https://junaidjameel773.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-jameel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidjameel773@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?logo=googlechrome&logoColor=white)](https://junaidjameel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-jameel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidjameel773@gmail.com) 
 
 # 🧱 Tech Stack:
 **Languages**<br/>
